@@ -2,3 +2,11 @@ body {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
+.brand-image {
+	margin-right: 20px;
+}
+
+.my-nav > li {
+	display: inline;
+	margin-right: 20px;
+}

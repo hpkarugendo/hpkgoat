@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.hpkgoat</groupId>
 	<artifactId>hpkgoat</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<packaging>war</packaging>
 	<name>hpkgoat</name>
 	<description>My Main Site</description>
